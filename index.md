@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+<title>انگیزه نامه</title>
 
-You can use the [editor on GitHub](https://github.com/fatemehqasemii/SOP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<body style="background-color:powderblue;">
+<h1 style="text-align:center;">به نام خدا</h1>
+<pre style="text-align:center;">
+انگیزه نامه
+فاطمه قاسمی
+رشته مهندسی کامپیوتر 
+</pre>
+<p style="text-align:center;">
+اهداف و انگیزه
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+تصمیم دارم که تحصیلات خود در این زمینه را به پایان برسانم و سپس با کار کردن در این رشته تجربیات خود را بالا ببرم و در این زمینه پیشرفت کنم 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fatemehqasemii/SOP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p style="text-align:center;">
+برنامه
+<br>
+  
+با به پایان رساندن دوره کارشناسی  از طریق کار در این زمینه تجربیات خود را بالا میبرم و سپس با تکمیل شدن این فرایند در دوره ارشد شرکت میکنم.
+ 
+<p style="text-align:center;">
